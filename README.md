@@ -38,7 +38,7 @@
       </div>
     </section>
   
-    <section class="experience" id="experience">
+  <section class="experience" id="experience">
       <h2>Experience</h2>
       <ul><li>Virtual Assistant at Hinansho (current)</li>
         <li>Personal Assistant to Ayilara Sodiq (current)</li>
@@ -47,7 +47,7 @@
       </ul>
     </section>
   
-    <section class="skills" id="skills">
+  <section class="skills" id="skills">
       <h2>Skills</h2>
       <ul>
         <li>Virtual Assistance</li>
@@ -58,7 +58,7 @@
       </ul>
     </section>
   
-    <section class="contact" id="contact">
+  <section class="contact" id="contact">
       <h2>Contact Me</h2>
       <p>Interested in working together or getting a custom portfolio?</p>
       <a href="https://wa.me/2347025867979?text=Hi%2C%20I%E2%80%99m%20interested%20in%20Hinansho%E2%80%99s%20Services%20referred%20by%20Rahma%20My%20name%20is" class="btn">Chat on WhatsApp</a>
@@ -66,7 +66,7 @@
       <a href="https://www.linkedin.com/in/joseph-adesewa" class="btn">View LinkedIn</a>
     </section>
   
-    <footer>
+  <footer>
       <p>© 2025 Joseph Adesewa Inioluwa</p>
     </footer>
   
